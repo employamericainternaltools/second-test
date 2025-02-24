@@ -4,6 +4,8 @@
 rm(list = ls())
 library(shiny)
 library(tidyr)
+library(tidyverse)
+library(dplyr)
 library(shinyWidgets)
 library(stringr)
 library(colourpicker)
